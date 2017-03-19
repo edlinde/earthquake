@@ -1,0 +1,2 @@
+# earthquake
+startup pages
